@@ -1,0 +1,12 @@
+ssh-keygen -t rsa -C 494841670@qq.com    运行此命令行后以后推代码不需要输入用户名密码
+
+
+git clone git@github.com:494841670@qq.com
+
+git config --global username 494841670
+git config --global email 494841670@qq.com
+
+
+
+快捷命令
+git config --global .st status   //即可用git st  代替git status
